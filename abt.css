@@ -1,0 +1,63 @@
+.text-box {
+        position: absolute;
+        margin:auto 0;
+        
+        background-color: rgba(0,0,0,0.6);
+        color: white;
+        width: 100% ;
+}
+
+/* .box {
+        position: absolute;
+        margin:auto 0;
+        text-align:center;
+        
+        color: black;
+        width: 60% ;
+} */
+.about1{
+  padding: 30px 50px;
+  position: relative;
+ height:75%;
+ margin-top: 100px;
+ margin-left: 150px;
+ margin-right: 150px;
+ text-align: left;
+ color: #777777;
+}
+
+.design{
+  font-size: 15px;
+  font-family: Open Sans;
+  color: #777777;
+}
+
+.title{
+  font-size: 45px;
+  text-align: center;
+  color: black;
+  font-family: Open Sans;
+  font-weight: bold;
+}
+.t{
+  padding-top:20px;
+  color: #777777;
+  /* text-align: center; */
+}
+.line {
+  width: 40px;
+  height: 5px;
+  background-color: black;
+  margin:0 auto;
+}
+
+body{
+  padding: 40px ;
+}
+.card{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.shadow:hover {
+  opacity: 0.5; 
+}
